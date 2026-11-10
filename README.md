@@ -7,3 +7,7 @@ Ici, je note ce que j'apprends en vibe coding.
 # Qui je suis
 
 Etudiante en design, j'aime les
+
+## Ce que j'apprends 
+-**Git** : garder l'histoire de mon projet
+-*Markdown* :ecrire du texte 
