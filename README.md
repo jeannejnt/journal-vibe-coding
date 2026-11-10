@@ -11,3 +11,6 @@ Etudiante en design, j'aime les
 ## Ce que j'apprends 
 - **Git** : garder l'histoire de mon projet
 - *Markdown* :ecrire du texte 
+
+## Ma page
+[Voir ma page en ligne](https://www.instagram.com/jeuaanne/)
